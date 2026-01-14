@@ -78,7 +78,10 @@ https://github.com/MoscowArmory/moscow-armory/blob/main/screenshots/iPad%20Playe
 The easiest way is to download from the official app stores:
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-blue?logo=app-store)](https://apps.apple.com/app/your-app-id)
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=your.package.name)
+
+Currently the Android app is only available as an APK at:
+https://moscowarmorystorage.blob.core.windows.net/apks/MAVP202511290833.apk
+
 
 ### Building from Source
 1. Clone the repository
